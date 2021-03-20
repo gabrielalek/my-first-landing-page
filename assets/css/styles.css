@@ -257,3 +257,9 @@
     }
 
 }
+
+@media (max-width: 37.5rem) {
+    h2 {
+        font-size: 3.5rem;
+    }
+}
